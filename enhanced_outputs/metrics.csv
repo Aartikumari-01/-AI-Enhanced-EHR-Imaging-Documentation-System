@@ -1,0 +1,4 @@
+Image,PSNR_Noisy,SSIM_Noisy,PSNR_Denoised,SSIM_Denoised,PSNR_Enhanced,SSIM_Enhanced
+benign_benign (1).png,18.844,0.2352,22.68,0.4868,22.58,0.4758
+benign_benign (1)_mask.png,22.76,0.0209,27.544,0.0714,27.75,0.0723
+benign_benign (10).png,19.454,0.2615,24.509,0.5581,24.4,0.5462
